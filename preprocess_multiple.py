@@ -1,3 +1,6 @@
+#All credits to Henny Sluyter-Gäthje, who provided me with this short script for running multiple texts through Hans Ole Hatzel's Event Segmentation 
+#Hans Ole Hatzle (2022): Event Segmentation, https://github.com/uhh-lt/event-classification.
+
 import os
 import sys
 from pathlib import Path 
