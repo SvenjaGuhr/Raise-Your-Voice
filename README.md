@@ -28,7 +28,7 @@ For more information see the wiki of NEISS NTEE (TEI Entity Enricher) [https://g
 - Postprocessing the sound annotations for extracting the annotations from XML to CSV [https://github.com/SvenjaGuhr/ link]
 - Postprocessing the sound annotations through automated revision of the XML annotations [https://github.com/SvenjaGuhr/ link]
 - Postprocessing of the manually annotated XML files through extraction of sound event and loudness annotations for their analysis as data frames [https://github.com/SvenjaGuhr/ link]
-- Sound annotation with dictionary approach [https://github.com/SvenjaGuhr/Sound_and_Suspense/tree/main/Sound_annotation_dictionary_approach]
+- Loudness annotation with dictionary approach [https://github.com/SvenjaGuhr/ link]
 
 ## Dataframes:
 - Corpus metadata table as CSV [https://github.com/SvenjaGuhr/  link]
