@@ -24,6 +24,7 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 - Preprocessing of plain text files as preparation for the manual sound word annotation in CSV [https://github.com/SvenjaGuhr/ link]
 - Preprocessing of plain text files as preparation for the automated sound annotation in XML [https://github.com/SvenjaGuhr/ link]
 - Preprocessing of the corpus for generating metadata (i.a. token and word count) [https://github.com/SvenjaGuhr/Raise-your-Voice/edit/main/README.md#:~:text=diss_corpus_preprocessing_and_word_count]
+- Metadata generation: Corpus Keyword Search and Extraction [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Corpus_Keyword_Search_and_Extraction.ipynb)
 - Evaluation of inter-annotator agreement with Krippendorff's _alpha_ [Krippendorff 2018](https://github.com/pln-fing-udelar/fast-krippendorff) and _gamma_ by Mathet et al. (2015) using the [python package _pygamma-agreement_](https://pygamma-agreement.readthedocs.io/_/downloads/en/latest/pdf/) [Link to notebooks](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/IAA_manual_annotation)
 - Postprocessing the sound annotations for extracting the annotations from XML to CSV [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Diss_extraction_of_annotations)
 - Postprocessing the sound annotations through automated revision of the XML annotations [https://github.com/SvenjaGuhr/ link]
