@@ -1,5 +1,5 @@
 # Raise-your-Voice
-Repository to Svenja Guhr's Dissertation \n
+Repository to Svenja Guhr's Dissertation <br/><br/>
 This repository contains: 
 
 ## Corpus and annotated corpus texts:
