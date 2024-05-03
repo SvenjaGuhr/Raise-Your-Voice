@@ -56,14 +56,14 @@ This is in contrast to animal sounds that are only part of the ambient soundscap
 
 From the last step of the sound event decision tree, the following steps have been added to the manual annotation process to label the loudness level of a detected and classified sound event.
 1) Once the sound event has been classified as an ambient or character sound, the loudness level is examined from the loudest to the quietest sound level, with a separate distinction for silence.
-- Since loudness level 5 exceeds the human ability to produce sound, this loudness level is reserved for ambient sounds only. 
-- The loudness levels `4' to `1' and the loudness level `S' for explicit silence can be selected for both ambient and character sounds. 
+- Since loudness level '5' exceeds the human ability to produce sound, this loudness level is reserved for ambient sounds only. 
+- The loudness levels '4' to '1' and the loudness level 'S' for explicit silence can be selected for both ambient and character sounds. 
 
 The level annotation is done independently of any distance to the sound source and only with respect to the given lexical and semantic information about the sound or its assumed loudness level if it was measured directly next to the sound source. 
 Thus, the annotation approach allows the inclusion of context in the loudness level labeling, which is limited to the information given in the minimal unit, without the need for further information about the space and time the sound is located in the fiction.
 Consequently, the context is reduced to lexical and semantic elements such as adverbs in the annotation unit that intensify loud or soft sounds, such as `very' or `less', and comparative forms of sound adjectives that provide information to support loudness level labeling.
 
-Ex.6:   "Gräfin, hören Sie mich?" | **cs(** wiederholte er lauter **)** , |  **as(** während gewaltige Akkorde von drüben her erbrausten **)** . (_Reichsgräfin Gisela_, E. Marlitt)
+Ex.6:   "Gräfin, hören Sie mich?" | **cs=4(** wiederholte er lauter **)** , |  **as=5(** während gewaltige Akkorde von drüben her erbrausten **)** . (_Reichsgräfin Gisela_, E. Marlitt)
 
 
 <img title="Decision Tree for Sound Event Annotation" alt="Decision Tree for Sound Event Annotation" src="/Visualizations/20240503_DT_loudness_level.png">
