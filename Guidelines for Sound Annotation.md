@@ -37,7 +37,7 @@ The span may also be a longer construction interrupted by relative clauses conta
 
 Ex.4:    **cs(** Seine Rede, mit poetischen Floskeln ''aus den Werken der besten Schriftsteller'' geschmückt, schilderte nachdrücklich die Seelenpein des Sünders gegenüber der heiligen Sabbathfeier im Gemüthe des Schuldlosen **)**. (_Nicht zu hoch_, H. Lingg) 
 
-Ex.5:    Sprechproben wurden angesetzt; Ensembleproben. | Die Rollen wurden verteilt. | Persönlich probte Flametti vor dem Spiegel. | Probierte mit den Mädels, | **cs(** teilte Ohrfeigen aus **)**, | rannte Köpfe an die Wand; | **cs(** schrie **)**, | **cs(** brüllte **)** | **cs(** und fluchte **cs)**. (_Flametti_, H. Ball)
+Ex.5:    Sprechproben wurden angesetzt; Ensembleproben. | Die Rollen wurden verteilt. | Persönlich probte Flametti vor dem Spiegel. | Probierte mit den Mädels, | **cs(** teilte Ohrfeigen aus **)**, | rannte Köpfe an die Wand; | **cs(** schrie **)**, | **cs(** brüllte **)** | **cs(** und fluchte **)**. (_Flametti_, H. Ball)
 
 2) If the sound word does trigger an explicit sound event and the sound-event-covering span is detected, the next question is whether the sound source is recognizable as an identifiable character or group of identifiable characters in the fiction. 
 - If this is the case, the sound event should be annotated as a character sound event annotated with the XML TEI element 'character_sound'. 
@@ -63,7 +63,7 @@ The level annotation is done independently of any distance to the sound source a
 Thus, the annotation approach allows the inclusion of context in the loudness level labeling, which is limited to the information given in the minimal unit, without the need for further information about the space and time the sound is located in the fiction.
 Consequently, the context is reduced to lexical and semantic elements such as adverbs in the annotation unit that intensify loud or soft sounds, such as `very' or `less', and comparative forms of sound adjectives that provide information to support loudness level labeling.
 
-Ex.6:   "Gräfin, hören Sie mich?" | **cs=4(** wiederholte er lauter **)** , |  **as=5(** während gewaltige Akkorde von drüben her erbrausten **)** . (_Reichsgräfin Gisela_, E. Marlitt)
+Ex.6:    "Gräfin, hören Sie mich?" | **cs=4(** wiederholte er lauter **)**, |  **as=5(** während gewaltige Akkorde von drüben her erbrausten **)**. (_Reichsgräfin Gisela_, E. Marlitt)
 
 
 <img title="Decision Tree for Sound Event Annotation" alt="Decision Tree for Sound Event Annotation" src="/Visualizations/20240503_DT_loudness_level.png">
