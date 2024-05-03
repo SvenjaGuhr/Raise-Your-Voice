@@ -19,6 +19,10 @@ If a lexical sound word represents a specific realized sound in the fiction, it 
 - If it is not, the sound word should be classified as ambient sound and annotated with the tag 'ambient_sound', if it is, the sound word should be classified as character sound and annotated with the tag 'character_sound'.
 
 
+<img title="Decision Tree for Sound Word Annotation" alt="Decision Tree for Sound Word Annotation" src="/Visualizations/20240503_DT_sound_words.png">
+
+
+
 
 ## Sound Event Annotation
 
@@ -45,7 +49,7 @@ Their sounds are annotated as character sounds, because they cannot simply be re
 This is the case, for example, with the dog Krambambuli in the text of the same name by M. v. Ebner-Eschenbach, who communicates with his master either by barking or even dialogically in narrated conversations between the dog and his master. 
 This is in contrast to animal sounds that are only part of the ambient soundscape, e.g. descriptions of background noises such as howling wolves or screaming deer, whose sounds are annotated as ambient sounds.
 
-
+<img title="Decision Tree for Sound Event Annotation" alt="Decision Tree for Sound Event Annotation" src="/Visualizations/20240503_DT_sound_event.png">
 
 
 
