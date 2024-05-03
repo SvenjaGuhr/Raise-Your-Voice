@@ -32,7 +32,7 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 - Loudness annotation with dictionary approach [https://github.com/SvenjaGuhr/ link]
 
 ## Dataframes:
-- Corpus metadata table as [CSV](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240501_theme-d-Prose_Metadaten.csv)
+- Corpus metadata table as [CSV](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240503_theme-d-Prose_Metadaten.csv)
 - Dataframes with mapped manual annotations of sound events and loudness of T. Fontane's _Effi Briest_ and G. Reuter's _Aus guter Familie_ [https://github.com/SvenjaGuhr/  link]
 
 ## Annotation Guidelines:
