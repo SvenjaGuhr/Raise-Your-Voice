@@ -34,9 +34,9 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 
 ### Postprocessing of the annotated corpus texts
 - One script providing the entire process from automated annotation revision, annotation extraction to automated loudness level labeling via the dictionary approach [Linkl[https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240509_loudness_level_labeling_tidy.ipynb]
-a) Postprocessing the sound annotations for extracting the annotations from XML to CSV [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Diss_extraction_of_annotations)
-b) Postprocessing the sound annotations through automated revision of the XML annotations [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/auto_revise_annotations.ipynb)
-c) Loudness annotation with dictionary approach [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/20240509_loudness_level_labeling.ipynb)
+-- Postprocessing the sound annotations for extracting the annotations from XML to CSV [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Diss_extraction_of_annotations)
+-- Postprocessing the sound annotations through automated revision of the XML annotations [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/auto_revise_annotations.ipynb)
+-- Loudness annotation with dictionary approach [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/20240509_loudness_level_labeling.ipynb)
 
 ## Building the Word2Vec Model
 - 
