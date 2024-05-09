@@ -33,10 +33,10 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 - Evaluation of inter-annotator agreement with Krippendorff's _alpha_ [Krippendorff 2018](https://github.com/pln-fing-udelar/fast-krippendorff) and _gamma_ by Mathet et al. (2015) using the [python package _pygamma-agreement_](https://pygamma-agreement.readthedocs.io/_/downloads/en/latest/pdf/) [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/IAA_manual_annotation)
 
 ### Postprocessing of the annotated corpus texts
-* One script providing the entire process from automated annotation revision, annotation extraction to automated loudness level labeling via the dictionary approach [Linkl[https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240509_loudness_level_labeling_tidy.ipynb]
-> Postprocessing the sound annotations for extracting the annotations from XML to CSV [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Diss_extraction_of_annotations)
-> Postprocessing the sound annotations through automated revision of the XML annotations [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/auto_revise_annotations.ipynb)
-> Loudness annotation with dictionary approach [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/20240509_loudness_level_labeling.ipynb)
+- One script providing the entire process from automated annotation revision, annotation extraction to automated loudness level labeling via the dictionary approach [Linkl[https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240509_loudness_level_labeling_tidy.ipynb]
+- Postprocessing the sound annotations for extracting the annotations from XML to CSV [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Diss_extraction_of_annotations)
+- Postprocessing the sound annotations through automated revision of the XML annotations [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/auto_revise_annotations.ipynb)
+- Loudness annotation with dictionary approach [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/20240509_loudness_level_labeling.ipynb)
 
 ## Building the Word2Vec Model
 - 
