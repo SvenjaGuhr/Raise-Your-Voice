@@ -39,7 +39,8 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 - Loudness annotation with dictionary approach [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Diss_extraction_of_annotations/20240509_loudness_level_labeling.ipynb)
 
 ## Building the Word2Vec Model
-- 
+- Word2Vec_model.bin
+- Jupyter Notebook for generating and using the Word2Vec model [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/Word2Vec_Model)
 
 ## Dataframes:
 - Corpus metadata table as [CSV](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/20240503_theme-d-Prose_Metadaten.csv)
