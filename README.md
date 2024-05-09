@@ -3,15 +3,15 @@ Repository to Svenja Guhr's Dissertation <br/><br/>
 This repository contains: 
 
 ## Corpus and annotated corpus texts:
-- Plain text corpus as TXT files (UTF-8) [https://github.com/SvenjaGuhr/ link]
-- Plain text corpus as XML files [https://github.com/SvenjaGuhr/  link]
-- Manually annotated training data as XML files with sound word annotations [https://github.com/SvenjaGuhr/ link]
-- Manually annotated training data as XML files with sound event annotations [https://github.com/SvenjaGuhr/ link]
-- Manually annotated test set with 10 XML files with sound event annotations [https://github.com/SvenjaGuhr/ link]
-- Manually sound word-annotated XML file of M. v. Ebner-Eschenbach's _Die Resel_ [https://github.com/SvenjaGuhr/ link]
-- Manually sound event-annotated XML file of M. v. Ebner-Eschenbach's _Die Resel_ [https://github.com/SvenjaGuhr/ link]
-- XML files with automatically sound-annotated corpus texts with sound event annotation [https://github.com/SvenjaGuhr/ link]
-- XML files automatically sound event-annotated and semi-automatically enriched with loudness levels [https://github.com/SvenjaGuhr/ link]
+- Plain text corpus as TXT files (UTF-8) 
+- Plain text corpus as XML files
+- Manually annotated training data as XML files with sound word annotations 
+- Manually annotated training data as XML files with sound event annotations 
+- Manually annotated test set with 10 XML files with sound event annotations 
+- Manually sound word-annotated XML file of M. v. Ebner-Eschenbach's _Die Resel_ 
+- Manually sound event-annotated XML file of M. v. Ebner-Eschenbach's _Die Resel_ 
+- XML files with automatically sound-annotated corpus texts with sound event annotation 
+- XML files automatically sound event-annotated and semi-automatically enriched with loudness levels 
 
 ## Models:
 - Trained NEISS NTEE Models for automated sound word and sound event annotation: 
