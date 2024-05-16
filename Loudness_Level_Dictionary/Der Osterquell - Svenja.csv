@@ -1,0 +1,455 @@
+Verbalphrase,"Lautstärkeannotation (6, 1-5)",Annotationskorrektur,"Lautstärkeannotation (6, 1-5)",Dictionary Anno
+<title>Der Osterquell</title,0,,0,0
+Langsam stiegen drei Wandrer am späten Nachmittag die schlängelnde Bergstraße aufwärts.,0,,0,0
+"Hinter ihnen lag das einsame Wirtshaus,",0,,0,0
+in dem sie ihr Gefährt untergestellt;,0,,0,0
+"seine grellen Mauern schimmerten noch herüber,",0,,0,0
+"sonst weit und breit kein Gehöft, kein Dorf.",0,,0,0
+"Die Ebereschenbäume zu Seiten des Wegs noch kahl,",0,,0,0
+der Wind <ambient_sound>zaust</ambient_sound> in ihren Kronen;,3,,0,0
+"hie und da ein Trupp Tannen und Kiefern,",0,,0,0
+deren Wurzeln am Geröll des Absturzes fast nackt hängen.,0,,0,0
+"Rechts geht's tief hinunter in blaue Waldschluchten,",0,,0,0
+links streift der Blick über kahles Plateau.,0,,0,0
+Sonst nichts!,0,,0,0
+"Der Mann im sonntäglichen Tuchrock und schwarzer Schirmmütze setzte den derben Knotenstock kräftig auf,",0,,0,0
+mit seinen weitausholenden Schritten war er längst den andern vorauf;,0,,0,0
+<sound_property>mühselig</sound_property> <character_sound>keuchte</character_sound> das Weib nach.,3,,3,3
+Das dunkle Wollkleid hatte sie über dem blauen Friesrock geschürzt und in einem mächtigen Bausch um die Taille gerafft.,0,,0,0
+"Man sah's aber doch,",0,,0,0
+sie war gesegneten Leibes.,0,,0,0
+Alle paar Schritt blieb sie stehen,0,,0,0
+und <character_sound>holte</character_sound> <sound_property>zitternden</sound_property> <character_sound>Atem</character_sound>;,2,,2,2
+"unruhig drang ihr Blick vorwärts und haftete dann auf dem Kind,",0,,0,0
+"das, an ihrem Rock hängend, hinter ihr drein <character_sound>schlorrte</character_sound>.",3,,3,0
+"Ein fünf-, sechsjähriger Bube war's,",0,,0,0
+"ein bleicher, mit dickem Kopf und schlotternden Beinen – ein halb blödes Geschöpf,",0,,0,0
+"wie es oft in den Eifeldörfern auf der Hausschwelle hockt,",0,,0,0
+den Vorübergehenden mit verschwollenen Augen nachstarrend.,0,,0,0
+"» Juseppche, biste müd ?«",0,,0,0
+<character_sound>fragte</character_sound> die Mutter,3,,3,3
+und strich dem Jungen mit trauriger Gebärde die fahlen Haare hinter die Ohren.,0,,0,0
+"Er schüttelte den Kopf,",1,fn,1,0
+aber er sprach nicht;,6,fn,6,3
+"seine ganze Aufmerksamkeit galt dem roten Regenschirm,",0,,0,0
+den er wie ein Steckenpferd zwischen den Beinen hielt.,0,,0,0
+"Jetzt stolperte er drüber,",0,,0,0
+"sein Gesicht verzog sich zum Weinen,",0,,0,0
+doch keine Thräne lief aus den Augen;,0,,0,0
+er war zu blöd dazu.,0,,0,0
+Der Wind <ambient_sound>weht</ambient_sound> <sound_property>stark</sound_property>,4,,4,0
+und <ambient_sound>bläht</ambient_sound> die Gewänder der Dahinschreitenden gleich Segeln;,0,bläht Gewänder,0,0
+es ist kein Winterwind mehr und auch kein rechter Frühling drin.,0,,0,0
+"Blaugrauer Aprilhimmel wölbt sich über den Eifelkuppen,",0,,0,0
+"in der Tiefe lauert schon erstes Grün,",0,,0,0
+aber auf der Höhe liegen noch vereinzelte Schneeflecke wie Wäsche zum Bleichen.,0,,0,0
+Es ist Samstag vor Ostern.,0,,0,0
+"Morgen am ersten Ostertag wird die Straße nicht mehr so einsam sein,",0,,0,0
+da zieht es hinauf zum Kloster Buchholz in aller Herrgottsfrühe.,0,,0,0
+"Im Dunkel der Nacht brechen die frommen Seelen auf von Eckfelde und Gillenfeld,",0,,0,0
+von Manderscheid und Pantenburg und noch weiter her.,0,,0,0
+"Sie wandern zu zweien und dreien,",0,,0,0
+sie kommen auch um ein Fähnlein geschart mit Gesang: »,0,,0,0
+"O heil'ger Benedikte, du treuer Seelenhirt – «",0,,0,0
+"sie alle wollen Osterwasser schöpfen aus dem Quell,",0,,0,0
+der neben der Kirchthür unter uralten Buchen quillt.,2,fn,2,0
+Es ist heiliges Wasser.,0,,0,0
+"Wer bei den ersten Strahlen der Ostersonne schöpft und trinkt,",0,,0,0
+dem rinnt ein neuer Lebensquell durch Mark und Bein.,0,,0,0
+"Sie schöpfen mit der hohlen Hand,",0,,0,0
+sie schöpfen auch in Krügen und bringen es mit heim;,0,,0,0
+der Priester in der kleinen Kirche nimmt den Entgelt ,0,,0,0
+und spricht den Segen.,3,,3,3
+"Hunderte, mehr als der enge Raum fassen kann,",0,,0,0
+liegen drin auf den Knieen;,0,,0,0
+"die Thüren sind weit aufgethan,",0,,0,0
+der Mosenkopf mit seinem Kratergipfel und die Waldbäume lugen hinein.,0,,0,0
+"Buchholz ist längst kein Kloster mehr,",0,,0,0
+nur wenige Benediktinerbrüder sind zurückgeblieben;,0,,0,0
+"ein Schimmer von Heiligkeit webt sich um sie,",0,,0,0
+die jetzt in langen schwarzen Soutanen mit überwachsener Tonsur auf den halbkreisförmigen Bänken das Brevier beten,2,beten,2,0
+oder im Sonnenschein ihre Kranken leiten.,0,,0,0
+Die geistlichen Herren zu Buchholz sind berühmte Pfleger weit und breit;,0,,0,0
+wer mit Gebrechen belastet ist,0,,0,0
+"und die Kosten zahlen kann,",0,,0,0
+strebt zu ihnen.,0,,0,0
+"Sieben Stationen führen hinauf,",0,,0,0
+die heißen die sieben Schmerzen.,0,,0,0
+"»O heil'ge Moddergotts, Gebenedeite unner den Weibern, um deines Sohnes Jeses Christes willen,«",0,,0,0
+<character_sound>sprach</character_sound> das Weib,3,,3,3
+"und knixte an der ersten Station vor der steinernen Tafel,",0,,0,0
+darauf in rohem Relief die Gestalt des Heilands gemeißelt ist –,0,,0,0
+die Kriegsknechte drücken ihm die Dornenkrone auf's Haupt.,0,,0,0
+Sich bekreuzend ging sie weiter.,0,,0,0
+Jede Tafel weist ein neues Bild –,0,,0,0
+"da laden sie ihm das Kreuz auf,",0,,0,0
+"da bohren sie ihm Nägel durch Hände und Füße,",0,,0,0
+"da tränken sie ihn mit Essig,",0,,0,0
+da stoßen sie den Speer in seine Seite –,0,,0,0
+immer schleppender ward des Weibes Schritt;,0,,0,0
+ihr verhärmtes Gesicht erbleichte tief –,0,,0,0
+"es hatte hübsche Züge, feiner, als die andrer Bauernweiber –",0,,0,0
+ihre dunklen Augen öffneten sich angstvoll.,0,,0,0
+Am siebenten Schmerz sank sie in die Kniee.,0,,0,0
+– » Es ist vollbracht « stand da zu lesen;,0,,0,0
+"– der Rosenkranz entglitt ihren Fingern,",0,,0,0
+hart schlug sie die Stirn an den Pfahl der Tafel. »,0,,0,0
+"Jeses Christes,",0,,0,0
+"erbarm dich,",0,,0,0
+"erbarm dich meiner – Jeses Christes,",0,,0,0
+"erbarm dich,« –",0,,0,0
+"sie <character_sound>wiederholte</character_sound> <sound_property>wieder</sound_property> und <sound_property>wieder</sound_property>,",3,,3,3
+weiter kam sie nicht;,0,,0,0
+"ihre <character_sound>Stimme</character_sound> <character_sound>erstickte</character_sound>,",6,,6,2
+dazu hob sie die gefalteten Hände und preßte sie krampfhaft gegen die Brust.,0,,0,0
+"Das Kind stand teilnahmslos daneben,",0,,0,0
+"seine Hand ließ den Rock der Mutter nicht los,",0,,0,0
+mit der andern hielt es den roten Regenschirm.,0,,0,0
+– » Katrein – Katrein!«,0,,0,0
+Die Frau fuhr zusammen und richtete sich hastig auf;,0,,0,0
+ihr Mann <character_sound>rief</character_sound>:,4,,4,4
+"» Äwer, Katrein,",0,,0,0
+"wat michste,",0,,0,0
+wuh bleiwste e su lang?,0,,0,0
+Maach doach!«,0,,0,0
+Er stand wartend <character_sound>still</character_sound>,6,,6,6
+und <ambient_sound>klopfte</ambient_sound> ungeduldig mit dem Stock auf den Boden.,4,,4,4
+"»Jao, jao, ech kommen! «",0,,0,0
+"Sie setzte sich in Trab,",0,,0,0
+unter m <character_sound>Keuchen</character_sound> des <character_sound>Atems</character_sound> <character_sound>murmelte</character_sound>sie:,4,,4,3
+"» O Jeses Christes,",0,,0,0
+ech sein esu angst –,0,,0,0
+erbarm dich –,0,,0,0
+esu angst! «,0,,0,0
+"Jetzt that sich hoher Buchenwald auf,",0,,0,0
+"die <ambient_sound>Schritte</ambient_sound><ambient_sound>raschelten</ambient_sound> im braunen Laub, ein modriger Geruch stieg empor,",3,,3,2
+dazwischen ein Duft nach treibender Erde und schwellenden Blattknospen.,0,,0,0
+"» Gel, Juseppche,",0,,0,0
+lao es et su schien;,0,,0,0
+hei bleiwste esu gären?«,0,,0,0
+<character_sound>sprach</character_sound>der Vater,3,,3,3
+"und tippte den Jungen mit der schwieligen Bauernhand kräftig auf die Schulter,",3,,3,0
+daß der in den schwachen Knieen zusammenknickte und taumelte.,0,,0,0
+»Ä! «,0,,0,0
+"Der Mann wandte sich ab,",0,,0,0
+"halb unwillig,",0,,0,0
+halb schmerzlich.,0,,0,0
+»Es dat en Elend met dem Könd!«,0,,0,0
+Er schob die Mütze nach hinten und <character_sound>kratzte</character_sound> sich <character_sound>seufzend</character_sound> den Kopf.,2,,2,3
+"Der Frau schossen die Thränen in die Augen,",0,,0,0
+mit einem wehen Blick zog sie den Buben an sich und hielt ihn fest umschlungen. »,0,,0,0
+"Kreisch net, Katrein, «",0,,0,0
+"<character_sound>sagte</character_sound> der Mann und wischte ihr mit der rauhen Hand über die Backen,",3,,3,3
+"» mer holen Osterwasser,",0,,0,0
+"on dat Juseppche bleibt owen,",0,,0,0
+dann es de Saach gemaach! « –,0,,0,0
+Die Tropfen liefen ihr über's Gesicht –,0,,0,0
+so traten sie in Buchholz ein.,0,,0,0
+"Kein Mensch zu sehen,",0,,0,0
+"die Thür des Wohngebäudes geschlossen,",0,,0,0
+"die schmalen, rundbogigen Fenster verhängt.",0,,0,0
+Mathias Steffes <ambient_sound>klopfte</ambient_sound> am Eingang;,4,,4,4
+der Klingelzug mit dem Kreuzchen als Griff gab einen <sound_property>undeutlich</sound_property><sound_property>heiseren</sound_property><ambient_sound>Klang</ambient_sound>.,4,,4,3
+Niemand öffnete. »,0,,0,0
+Ke Mensch derhäm?,0,,0,0
+Kotzdonner! «,0,,0,0
+Verdrießlich schritt der Mann längs der hohen Mauer weiter zur Kapelle;,0,,0,0
+"schüchtern folgte das Weib,",0,,0,0
+den Knaben noch immer an sich drückend.,0,,0,0
+Wie <ambient_sound>still</ambient_sound> ist es hier!,6,,6,6
+"Bis dicht an die Kirche reichen die schlanken Waldstämme, Zweige <ambient_sound> klopfen</ambient_sound> an die bleigefaßten Scheiben,",4,,4,4
+das heilige Brünnlein<ambient_sound>rinnt</ambient_sound><sound_property>murmelnd</sound_property>,2,,2,2
+"und sickert zwischen die Grabhügel des kleinen Friedhofes, des Gartens von Buchholz.",0,,0,0
+"Hier muß es sich gut ruhen,",0,,0,0
+wo Baumwipfel Schlummerlieder <ambient_sound>rauschen</ambient_sound>,2,,2,0
+und durch den Aushau im Wald eine wunderbare Ferne herüber blaut.,0,,0,0
+"Hier muß es gut auferstehen sein,",0,,0,0
+"wenn die Sonne des jüngsten Tages strahlend über den Mosenkopf steigt,",0,,0,0
+und der ewige Ostermorgen anbricht!,0,,0,0
+» Holla – hoa – niemand derhäm? «,0,,0,0
+<character_sound>rief</character_sound> der Bauer und hielt die hohlen Hände an den Mund.,4,,4,4
+» Hoa – ech sein dän Mathias Steffes aus Mehren – ech sein dän,0,,0,0
+"Bruder von em gaastlichen Hähr,",0,,0,0
+"vom Pater Josef – hoa,",0,,0,0
+holla – ech kommen,0,,0,0
+for Osterwasser on ech maanen mein Jong daor ze laoßen,0,,0,0
+"for gesond ze gänn – hoa, hä! «",0,,0,0
+» Wer ruft?!«,0,,0,0
+"Die Kapellenthür hatte sich <ambient_sound>lautlos</ambient_sound>geöffnet,",6,,6,6
+auf der Schwelle stand eine große Mannsgestalt im Priesterkleid;,0,,0,0
+"von dem stumpf schwarzen Rock hob sich das Gesicht,",0,,0,0
+"fahl und starr,",0,,0,0
+der kräftige Nacken gebeugt wie unter einer schweren Last.,0,,0,0
+Er war noch jung.,0,,0,0
+» Josef! «,0,,0,0
+Mathias Steffes stürzte vor,0,,0,0
+"und streckte die Hand aus,",0,,0,0
+"aber sich besinnend,",0,,0,0
+"zog er sie zurück,",0,,0,0
+riß ehrfurchtsvoll die Mütze vom Kopf,0,,0,0
+und scharrte einen Kratzfuß:,3,fn,3,0
+"»Hähr Bruder,",0,,0,0
+"exkusieren Se – ech sein dän Mathes,",0,,0,0
+kennen Se mech noach?,0,,0,0
+"– On hei es et Katrein,",0,,0,0
+Hähr Bruder!«,0,,0,0
+Der andere zuckte zusammen;,0,,0,0
+"aus seinen tiefliegenden Augen flog ein scheuer Strahl zu dem Weib hinüber,",0,,0,0
+"dann senkten sich die Lider,",0,,0,0
+die Arme fielen ihm schlaff am Leib herunter.,0,,0,0
+»Seid gegrüßt!«,0,,0,0
+<character_sound>sprach</character_sound> er <sound_property>eintönig</sound_property>.,3,,3,3
+"Sieben Jahre waren es,",0,,0,0
+"seit Josef Steffes die Weihen empfangen,",0,,0,0
+das Gelübde der Gottseligkeit und Keuschheit abgelegt hatte;,0,,0,0
+"sein Priesterkleid war unbefleckt,",0,,0,0
+aber sein Herz nicht rein.,0,,0,0
+Alles Beten half nichts;,0,,0,0
+"er hatte zu viel an die Katrein denken müssen,",0,,0,0
+die einstmals an seinem Hals gehangen,0,,0,0
+und <character_sound>geschluchzt</character_sound> hatte:,2,,2,3
+"»Ich muß ja den Mathes heiraten,",0,,0,0
+"aber dich vergeß ich net, Josef,",0,,0,0
+kannst sicher sein –,0,,0,0
+und wann du zehnmal bei die geistlichen Herren bist –,0,,0,0
+"sie sein sehr heilig,",0,,0,0
+"aber – mein Josef, o hätt  dich doch deine Mutter selig nie der Kirch  versprochen;",0,,0,0
+wärst du net der Jüngste – wie froh könnten wir sein!,0,,0,0
+"Paß auf, Josef,",0,,0,0
+"wir sein nun alle beid  wie begraben,",0,,0,0
+"du in deinem Kloster,",0,,0,0
+und ich in meiner Eh ! «,0,,0,0
+"– – Sie hatte recht gehabt,",0,,0,0
+er lag wie im Grab.,0,,0,0
+"Immer beten,",0,,0,0
+"immer fromm sein,",0,,0,0
+wenn das Jugendblut in den Adern hämmert,0,,0,0
+und die Manneskraft sich aufbäumt –,0,,0,0
+"da wird man zuletzt starr und kalt,",0,,0,0
+wie ein Toter.,0,,0,0
+Dem Mathes gehörte alles –,0,,0,0
+er war der Älteste –,0,,0,0
+Haus und Hof und die Braut.,0,,0,0
+Der Josef gehörte der Kirche;,0,,0,0
+der hatte die Heiligkeit und den Himmel.,0,,0,0
+– » Katrein!«,0,,0,0
+"<character_sound>murmelt</character_sound> der Josef im schwarzen Priesterrock,",2,,2,2
+als sie in der Kapelle einander gegenüberstehen;,0,,0,0
+nach sieben Jahren zum erstenmal.,0,,0,0
+"Langsam weicht er zurück bis zum Altar,",0,,0,0
+langsam folgt sie bis zum Altar –,0,,0,0
+sie sind allein.,0,,0,0
+Draußen jagt das blöde Kind eine Eichkatze und der Mathes schaut dem zu.,0,,0,0
+"Dämmerung ist's,",0,,0,0
+"so eine Dämmerung, in der die Wangen fahler scheinen und die Augen gespenstischer.",0,,0,0
+» Katrein! «,0,,0,0
+» Josef! «,0,,0,0
+Sie streckt flehend die Hände gegen ihn aus –,0,,0,0
+"» Josef, de Ruh – de Ruh! «",0,,0,0
+"Ihre Augen haben einen bittenden, ängstlichen Ausdruck,",0,,0,0
+"für Minuten starren sie ihn an,",0,,0,0
+dann gleiten sie scheu an ihm vorbei zum Bild über m Altar;,0,,0,0
+mechanisch fällt sie auf die Kniee:,0,,0,0
+"»Maria, Gebenedeite,",0,,0,0
+bitt for ons arme Sünder!«,0,,0,0
+"Die <character_sound>murmelnden</character_sound> Lippen <character_sound>schweigen</character_sound><sound_property>wieder</sound_property>,",6,,6,2
+"man hört jetzt nichts, als <sound_property>bange</sound_property>, <sound_property>zitternde</sound_property><ambient_sound>Atemzüge</ambient_sound>",1,,1,0
+– und dann –,0,,0,0
+"» Ech sein gestraoft for mein Sünd,",0,,0,0
+"ech haon alleweil an dän Josef gedenkt,",0,,0,0
+vill zu vill!,0,,0,0
+"Ech haon mech e su gegrämt,",0,,0,0
+"ech wollt net Modder werden von em Könd,",0,,0,0
+dat net dem Josef sein't sein konnt – die Sünd!,0,,0,0
+Dafor es dat Juseppche schwach im Kopp gäwen.,0,,0,0
+"– Jeß, o Jeß, mein Sünd! «",0,,0,0
+"Die Thränen stürzen ihr stromweis über die Backen,",0,,0,0
+sie wendet den Kopf und faßt mit zitternden Fingern das Gewand des Priesters:,0,,0,0
+"» Gaastlicher Hähr,",0,,0,0
+"dän Mathes es esu gud,",0,,0,0
+"hän schlät net,",0,,0,0
+hän schimpft net –,0,,0,0
+"nor dat Juseppche es ons Kreiz,",0,,0,0
+dat Juseppche!,0,,0,0
+"Gaastlicher Hähr,",0,,0,0
+"halden Sie et ze Buchholz,",0,,0,0
+"maachen Se et gesond,",0,,0,0
+Se sein studört – helfen Se mer – mein arm Juseppche!«,0,,0,0
+Sie <character_sound>weint</character_sound>.,0,,0,3
+"Pater Josef steht dabei,",0,,0,0
+er kann nicht sprechen –,0,,0,0
+wie sich das Weib auf den Fliesen windet und krümmt!,0,,0,0
+"Das ist nicht mehr die Katrein,",0,,0,0
+die er so sehr geliebt hat –,0,,0,0
+"dies bleiche, <character_sound>wimmernde</character_sound> Weib mit der entstellten Gestalt ist die ganze beladene Menschheit.",2,,2,0
+"Über sein kantiges Gesicht,",0,,0,0
+"dem sieben Jahre das Mönchsgepräge verliehen,",0,,0,0
+zuckt es;,0,,0,0
+er denkt nicht mehr an sich –,0,,0,0
+im Augenblick ist der eigene lange Kampf verwischt –,0,,0,0
+"ein unsägliches Mitleid mit der da, mit der leidenden Welt, schnürt ihm die Kehle zusammen.",0,,0,0
+Die Hand fährt unter die schwarze Soutane und preßt sich auf die klopfende Brust – »,0,,0,0
+"Ein Zeichen, Herrgott, ein Zeichen in meiner Nacht!",0,,0,0
+« Das Weib windet sich auf den Fliesen. »,0,,0,0
+"Mein Sünd  – mein arm  Juseppche – Jeses Christes,",0,,0,0
+erbarm  dech onser!«,0,,0,0
+Der Priester steht wie versteinert,0,,0,0
+und beißt sich die Lippen –,0,,0,0
+da – in die verdunkelte Kirche tritt der Mathes mit <ambient_sound>knarrenden</ambient_sound> Stiefeln;,3,,3,4
+zur Thür kommt der letzte Abendschein herein,0,,0,0
+und beleuchtet die roh gutmütigen Bauernzüge.,0,,0,0
+"»Hähr Bruder,",0,,0,0
+« sagt er,3,fn,3,3
+"und legt dem Priester die Hand auf die Schulter,",0,,0,0
+» sein Se als esu gud on halden,0,,0,0
+"Se ons Juseppche hei,",0,,0,0
+"et Katrein kennt sech en Schaoden duhn,",0,,0,0
+se kennt sech am Juseppche versiehn.,0,,0,0
+"Gelten Se, Hähr Bruder,",0,,0,0
+Se sein esu freindlich?,0,,0,0
+Zaohlen kann ech! «,0,,0,0
+Pater Josef <character_sound>nickt</character_sound> <sound_property>stumm</sound_property>.,6,,6,6
+"Über Buchholz war's Nacht,",0,,0,0
+der Himmel dunkel wie die Erde drunter.,0,,0,0
+"<sound_property>Leise</sound_property><ambient_sound>rauschte</ambient_sound>ein Regen nieder,",2,,2,2
+<ambient_sound>trommelte</ambient_sound>auf das Kirchendach und <ambient_sound>tröpfelte</ambient_sound> von den Zweigen.,3,,3,4
+"Drinnen in der Kapelle brannte die ewige Lampe,",0,,0,0
+wie ein Glühwürmchen blinkte sie.,0,,0,0
+"Die Heiligenbilder von den getünchten Wänden blickten altersgeschwärzt wehmütig herab,",0,,0,0
+"durch eine Luke im großen Fenster fuhr der Nachtwind und <ambient_sound>raschelte</ambient_sound> in den Guirlanden von weißen Papierrosen,",2,,2,0
+die sich kreuzweis über den Altarraum spannen.,0,,0,0
+"Drunter, zitternd beleuchtet vom Licht der schwankenden Ampel,",0,,0,0
+lag Pater Josef auf den Knieen.,0,,0,0
+"Wie lange er hier gelegen,",0,,0,0
+wußte er nicht;,0,,0,0
+"dumpf, wie in einem Traum, wirrten ihm die Gedanken im Kopf –",0,,0,0
+"die Katrein von früher,",0,,0,0
+"die Katrein von jetzt,",0,,0,0
+"das blöde Kind,",0,,0,0
+"alles Leid, alle Sünde und die Nacht ringsum.",0,,0,0
+Er blickte zum Gekreuzigten in der Altarnische.,0,,0,0
+"– » Ein Zeichen, Herrgott,",0,,0,0
+ein Zeichen!«,0,,0,0
+Todmüde taumelte er auf und strich sich über die schweißbedeckte Stirn;,0,,0,0
+"die Lider waren ihm bleischwer,",0,,0,0
+"kaum daß er den matten Schimmer hinter m Fenster erkannte,",0,,0,0
+der Tag graute.,0,,0,0
+"Der Regen draußen rieselte nicht mehr,",0,,0,0
+an der Thür strömte ihm eine weiche und doch frische Luft entgegen.,0,,0,0
+"In der Ferne nichts zu sehen,",0,,0,0
+"weißlich wogende Nebel rundum, graue Schleierfetzen zwischen den Bäumen;",0,,0,0
+"kein Schall, kein Ruf, keine Berge, kein Thal.",6,,6,0
+"Alles verschlossen mit undurchdringlichem Vorhang,",0,,0,0
+"am Horizont nur, im Osten, feurige Streifen, wie goldene Bänder,",0,,0,0
+und in der Mitte ein festes glühendes Rot.,0,,0,0
+"Er wankte zur Quelle aus alter Gewohnheit,",0,,0,0
+sacht plätscherte sie zwischen den rohen Steinen;,0,,0,0
+er schöpfte mit der hohlen Hand,0,,0,0
+und trank in gierigen Zügen –,0,,0,0
+wie das labte!,0,,0,0
+Er bückte sich vollends,0,,0,0
+"und tauchte seine Hände ein,",0,,0,0
+daß die schwarzen Ärmel feucht wurden,0,,0,0
+und drückte die nassen Finger gegen die brennenden Augen –,0,,0,0
+wie das kühlte!,0,,0,0
+"– <sound_property>Leise</sound_property> begann im Turm das Glöcklein zu <ambient_sound>bimmeln</ambient_sound>,",2,,2,2
+<sound_property>gedämpft</sound_property> drang sein <ambient_sound>Schall</ambient_sound>zu dem Gebeugtennieder;,2,,2,3
+"er hielt noch immer die Hände vor m Gesicht, lange,",0,,0,0
+eine köstliche Erquickung strömte ihm von da durch den ganzen Leib.,0,,0,0
+"Seine Lider wurden leicht und frei,",0,,0,0
+jetzt schlug er sie auf –,0,,0,0
+"er schaute, verwirrt, geblendet –",0,,0,0
+er schwankte fast – –,0,,0,0
+"o Wunder, o heilige Ostersonne!",0,,0,0
+"Frei, groß, leuchtend steht sie über m Mosenkopf,",0,,0,0
+eine Welt von Licht geht von ihr aus.,0,,0,0
+"Zerrissen die Nebel,",0,,0,0
+verschwunden das Gewoge!,0,,0,0
+"Lächelnd, im Glanz, liegen Berge und Thäler;",0,,0,0
+die Häuser der Menschen gleich weißen Punkten auf dem ersten lenzfrischen Grün.,0,,0,0
+"Und über allem, der Nähe und der Ferne, über dem Kirchlein, über den Buchen mit den schwellenden Knospen, über den Hügeln des kleinen Friedhofs, über der ganzen großen Natur ein heimliches Jauchzen:",2,,2,0
+» Ostern – Frühling – Auferstehen! «,0,,0,0
+Ein Vogel hebt sich <ambient_sound>trillernd</ambient_sound> vom Grasrain –,3,,3,0
+ist es eine Lerche?,0,,0,0
+"Ja, mit langem, <sound_property>jauchzendem</sound_property> <ambient_sound>Geschmetter</ambient_sound> schießt sie auf in den Äther.",3,,3,0
+Was ist das?!,0,,0,0
+Bruder Josef breitet die Arme weit aus.,0,,0,0
+"Er sieht sich staunend ringsum,",0,,0,0
+"er fährt sich über die Augen wie einer,",0,,0,0
+"der seinen Blicken nicht traut,",0,,0,0
+"seine breite Brust dehnt sich zum Zerspringen unter mächtigem Atemzug,",0,,0,3
+er reckt die starke Gestalt;,0,,0,0
+ist er denn blind gewesen?,0,,0,0
+Geht die Sonne nicht alltäglich so auf?,0,,0,0
+Ist die Natur nicht immer groß und herrlich auch für den im Priesterrock?,0,,0,0
+– Freilich! Warum sieht er s nur heute?,0,,0,0
+Der Priester faltet die Hände,0,,0,0
+und schlägt ein Kreuz:,0,,0,0
+» Das ist das heilige Osterwasser –,0,,0,0
+gelobt sei der Auferstandene! «,0,,0,0
+"Er weiß es nicht,",0,,0,0
+"der Mann im schwarzen Rock,",0,,0,0
+"s ist nicht das Osterwasser,",0,,0,0
+das ihn sehend macht;,0,,0,0
+"es ist das köstliche Naß,",0,,0,0
+das jetzt seinen Augen entquillt –,0,,0,0
+"Thränen heiliger, allbarmherziger Liebe!",0,,0,0
+"Die Glocke im Turm <ambient_sound>bimmelt</ambient_sound>immer noch,",3,,3,0
+"von weitem <ambient_sound>hallt</ambient_sound><ambient_sound>Gesang</ambient_sound>,",2,,2,4
+es schimmert bunt in der Ferne.,0,,0,0
+"» Sie kommen, «",0,,0,0
+<character_sound>spricht</character_sound> er,3,,3,3
+und geht ihnen entgegen.,0,,0,0
+"Schwarz weht sein langer Rock,",0,,0,0
+aber die Sonne webt drum ein helles Geflimmer;,0,,0,0
+"das Weib, das zwischen den Gräbern daher kommt, den Knaben an der Hand,",0,,0,0
+wird schier geblendet.,0,,0,0
+"Mit <sound_property>demütigem</sound_property><character_sound>Gruß</character_sound> weicht sie zur Seite,",3,,3,0
+ihr Wasserkrüglein fest an die Brust drückend.,0,,0,0
+"Sie wagt nicht zu ihm aufzusehen,",0,,0,0
+"sein Gesicht ist freundlich,",0,,0,0
+"und doch hoch und ein Glanz darauf,",0,,0,0
+den sie nicht kennt.,0,,0,0
+"»Heiliger Hähr, «",0,,0,0
+<character_sound>stammelt</character_sound>sie <sound_property>scheu</sound_property>,3,,3,3
+und hascht nach dem flatternden Ärmel der Soutane.,0,,0,0
+"Er <character_sound>nickt</character_sound>,",6,,6,0
+dann hebt er rasch den Knaben auf den Arm und drückt sein Gesicht an das blöd grinsende.,0,,0,0
+"– » Katrein, «",0,,0,0
+"<character_sound>spricht</character_sound>er <sound_property>sanft</sound_property>,",2,,2,3
+"» Katrein, geh heim in Frieden!«",0,,0,0
+Er macht ihr das Zeichen des Kreuzes auf Stirn und Brust.,0,,0,0
+"»Gesegnet seist du,",0,,0,0
+"und wann du ein gesundes Kind hast,",0,,0,0
+dann freue dich und preise den Auferstandenen.,0,,0,0
+"Wir beide, der Jusep und ich – gelt du, Juseppchen?",0,,0,0
+– wir thun miteinander auferstehn;,0,,0,0
+der da oben « –,0,,0,0
+er berührt die Stirn des Kindes –,0,,0,0
+» ich hier innen!«,0,,0,0
+Er schlägt sich auf die Brust.,0,,0,0
+» Wir brauchen einander! «,0,,0,0
+"Sie versteht ihn nicht,",0,,0,0
+"aber sie fühlt,",0,,0,0
+daß er ihrem Juseppchen gut ist;,0,,0,0
+"sie sieht,",0,,0,0
+"daß er lächelt,",0,,0,0
+und sie lächelt auch.,0,,0,0
+Mit tiefem Knix greift sie schüchtern nach seiner Hand,0,,0,0
+und drückt ihre Lippen darauf;,0,,0,0
+"dann geht sie,",0,,0,0
+"ohne sich noch einmal umzuschauen,",0,,0,0
+den blonden Kopf fromm gesenkt.,0,,0,0
+Unter den Bäumen kommt die Schar der Wallfahrer näher und näher.,0,,0,0
+"Die sonntäglichen Gewänder flattern im Morgenwind,",0,,0,0
+bunte Tücher schimmern;,0,,0,0
+"blonde, dunkle Köpfe und silberhaarige, Alte und Junge, braune Gesichter, wie aus Holz geschnitzt, und rotwangige, weiche, mit lustigen Augen, sie alle eilen zum Quell des Lebens mit Krügen und Schalen;",0,,0,0
+<sound_property>hell</sound_property> <ambient_sound>tönt</ambient_sound> ihr <sound_property>geistlicher</sound_property> <ambient_sound>Gesang</ambient_sound>.,4,,4,4
+Der Priester tritt mitten unter sie –,0,,0,0
+er überragt die Größesten um Spannenlänge –,0,,0,0
+"ehrfurchtsvoll knixen die Weiber,",0,,0,0
+"die Männer ziehen die Hüte bis zur Erde,",0,,0,0
+sie <ambient_sound>murmeln</ambient_sound> den <sound_property>frommen</sound_property> <character_sound>Ostergruß</character_sound>:,2,,2,2
+» Jeses Christes is auferstanden!«,0,,0,0
+Und Bruder Josef <character_sound>antwortet</character_sound> <sound_property>laut</sound_property> und <sound_property>fest</sound_property>:,4,,4,4
+» Er ist gewiß und wahrhaftig auferstanden!«,0,,0,0
