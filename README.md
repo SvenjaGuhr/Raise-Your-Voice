@@ -1,5 +1,8 @@
 # Raise-your-Voice
 Repository to Svenja Guhr's Dissertation <br/><br/>
+
+See also the corpus publication of theme-d-prose on Zenodo, DOI: [https://doi.org/10.5281/zenodo.12666499]. 
+
 This repository contains: 
 
 ## Corpus and annotated corpus texts:
