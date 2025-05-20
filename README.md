@@ -32,7 +32,7 @@ For more information see NEISS NTEE's wiki (TEI Entity Enricher) [https://github
 - Preprocessing of the corpus for generating metadata (i.a. token and word count) [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/diss_corpus_preprocessing_word_count_sentence_split_lemmatization_Word2Vec_model.ipynb)
 - Metadata generation: Corpus Keyword Search and Extraction [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/blob/main/Corpus_Keyword_Search_and_Extraction.ipynb)
 
-### Evaluationg if inter-annotator agreement
+### Evaluation of inter-annotator agreement
 - Evaluation of inter-annotator agreement with Krippendorff's _alpha_ [Krippendorff 2018](https://github.com/pln-fing-udelar/fast-krippendorff) and _gamma_ by Mathet et al. (2015) using the [python package _pygamma-agreement_](https://pygamma-agreement.readthedocs.io/_/downloads/en/latest/pdf/) [Link](https://github.com/SvenjaGuhr/Raise-your-Voice/tree/main/IAA_manual_annotation)
 
 ### Postprocessing of the annotated corpus texts
